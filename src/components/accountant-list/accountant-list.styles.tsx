@@ -51,6 +51,10 @@ export const CardDetailValue = styled.p`
   font-size: 16px;
   line-height: 24px;
 
+  a {
+    color: #000000;
+  }
+
   span {
     font-size: 12px;
   }
