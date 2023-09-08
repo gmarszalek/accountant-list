@@ -1,18 +1,3 @@
-## Zadanie testowe na pozycję React Developer
-
-Cel: stworzenie widoku z kartami księgowych z możliwością doładowania kolejnych kart po wciśnięciu przycisku.
-
-Dla wykonania zadania może być użyte dane repozytorium jako szablon, lub można użyć template create-react-app:
-
-```
-npx create-react-app my-app --template typescript
-```
-
-Makieta: https://www.sketch.com/s/b0736a6b-3a81-4863-95b6-4ec6775a20e3/a/dg1Gl5l
-(W boczym menu sketch w prawym górnym rogu w zakładce "Inspect" mamy możliwość podglądu właściwości elementów karty księgowego)
-
-![Alt text](image.png)
-
 Opis zadania:
 
 Używając danych z dostarczonego publicznego API, stwórz widok wyświetlający listę księgowych.
